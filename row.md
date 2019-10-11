@@ -1,3 +1,12 @@
+# syntak 
+Row   : <Widget>[
+  // komponen 1,
+  // komponen 2,
+  // komponen 3,
+  //.....
+  ]
+  
+
 # Membuat Tampilan Baris
 
 <pre> 
