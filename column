@@ -1,3 +1,13 @@
+Column(
+Children: <widget> [
+ // komponen 1;
+ // komponen 2;
+ // komponen 3;
+ //...
+]
+);
+
+
 # Membuat tampilan KOlom 
 
 <pre>
