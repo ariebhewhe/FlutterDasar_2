@@ -7,6 +7,7 @@ Row   : <Widget>[
   //.....
   ]
   </pre>
+mainAxisAlignment untuk menentukan posisi komponent pada layar (MainAxisAlignment.center,MainAxisAlignment.start,: MainAxisAlignment.end)
 
 # Membuat Tampilan Baris
 
