@@ -1,3 +1,5 @@
+# Syntak 
+<pre>
 Column(
 Children: <widget> [
  // komponen 1;
@@ -6,7 +8,7 @@ Children: <widget> [
  //...
 ]
 );
-
+</pre>
 
 # Membuat tampilan KOlom 
 
